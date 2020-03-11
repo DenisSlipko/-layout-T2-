@@ -1,0 +1,218 @@
+@media(max-width:375px) {
+    .logo {
+        transform: scale(0.9);
+    }
+    .header-menu li{
+        display: none;
+    }
+    .menu-btn {
+        display: inline;
+    }
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .decor-container {
+        justify-content: center;
+        margin-top: -20px;
+        margin-left: 0px;
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+    .polygon-h-p {
+        transform: scale(0.6);
+        margin-left: -200px;
+        margin-top: -200px;
+    }
+    .polygon-h-p-r {
+        margin-top: 500px;
+    }
+    .main-title {
+        font-size: 40px;
+        margin-bottom: 400px;
+    }
+    .main-flow {
+        margin-top: 80px;
+    }
+    .right-flow-main {
+        transform: scale(0.5);
+        margin-top: -150px;
+    }
+    .flow-left {
+        margin-left: -180px;
+        margin-top: 430px;
+    }
+    .title.partner {
+        margin-top: 100px;
+    }
+    .partner-logo.p3  {
+        display: none;
+    }
+    .partner-logo.p4 {
+        display: none;
+    }
+    .btn-arrow.btn-arrow-l.p{
+        display: none;
+    }
+    .btn-arrow.btn-arrow-r.p{
+        display: none;
+    }
+    .btn-container.mobile {
+        display: flex;
+        justify-content: center;
+    }
+    .btn-container {
+        margin-left: 0px;
+        justify-content: center;
+    }
+    .title.product {
+        margin-top: 70px;
+    }
+    .buble.l {
+        display: none;
+    }
+    .buble.r {
+        display: none;
+    }
+    .card-container {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: -220px;
+    }
+    .card {
+        max-width: 80%;
+        margin-left: 5px;
+        margin-right: 5px;
+        margin-bottom: 20px;
+    }
+    .card:hover {
+        transform: scale(1);
+    }
+    .card .btn-arrow.btn-arrow-r {
+        position: absolute;
+        display: block;
+        right: 25px;
+        bottom: 25px;
+    }
+    .author-container {
+        flex-direction: column;
+        justify-content: center;
+        margin-top: -270px;
+    }
+    .author-photo {
+        align-self: flex-end;
+        order: 0;
+    }
+    .coment-container {
+        order: 1;
+        align-self: center;
+        margin-bottom: 50px;
+    }
+    .flow-auth {
+        transform: scale(0.5);
+        margin-left: -140px;
+        margin-top: -150px;
+    }
+    .coment-container {
+        margin-left: 0px;
+        margin-right: 0px;
+        width: 70%;
+    }
+    .coment-sub.cf:before {
+        width: 200px;
+    }
+    .achieve-container {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .achieve-item {
+        padding-top: 40px;
+        flex-basis: 50%;
+    }
+    .sales-container {
+        flex-direction: column;
+    }
+    .top-sales {
+        width: 100%;
+    }
+    .sale-img-1 {
+        width: 100%;
+    }
+    .sale-img-2 {
+        order: 0;
+        width: 100%;
+    }
+    .title.sales {
+        margin-top: -350px;
+        margin-bottom: 300px;
+        margin-right: 20px;
+    }
+    .coment-sub.sales {
+        padding-right: 40px;
+        padding-left: 40px;
+    }
+    .top-sales.mob {
+        order: 1;
+    }
+    .btn-container {
+        display: flex;
+        justify-content: center;
+        margin-left: 0px;
+        margin-bottom: 30px;
+    }
+    .footer-container {
+        display: flex;
+        max-width: 100%;
+        
+    }
+    .main-logo.footer {
+        position: absolute;
+        margin-top: -15px;
+        margin-left: -160px;
+        transform: scale(0.7);
+    }
+    .footer-menu li {
+        align-self: flex-start;
+        margin-left: 60px;
+        order: 1;
+    }
+    .footer-menu {
+        vertical-align: middle;
+        display: flex;
+        flex-direction: row;
+        text-align: start;
+    }
+    .col {
+        flex-direction: column;
+    }
+    .footer-item.blog {
+        margin-top: 0px;
+    }
+    .footer-item.contact {
+        margin-top: 0px;
+    }
+    .black-btn.footer {
+        padding-top: 2px;
+        padding-bottom: 2px;
+        padding-right: 30px;
+    }
+    .footer-item.btn {
+        margin-left: 60px;
+        order: 2;
+        margin-top: -20px;
+        margin-bottom: -10px;
+    }
+    .footer-container::before {
+        width: 100%;
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+    .footer-item {
+        margin-bottom: 5px;
+    }
+    .polygon-h-p.ach {
+        transform: scale(0.6);
+        margin-top: -600px;
+    }
+
+}

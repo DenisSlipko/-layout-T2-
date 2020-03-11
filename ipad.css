@@ -1,0 +1,191 @@
+@media(max-width: 768px) {
+    .container {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
+    .header-menu li {
+        padding-right: 20px;
+    }
+    .polygon-h-p {
+        margin-top: -120px;
+        margin-left: -110px;
+        transform:  scale(0.7);
+    }
+    .polygon-h-p-r {
+        overflow: hidden;
+        transform: scale(0.7);
+        margin-right: -24px;
+        margin-top: 150px;
+    }
+    .polygon-h-p-r-img {
+        margin-right: -300px;
+    }
+    .polygon-h-p-r-2{
+        display: none;
+        overflow: hidden;
+        transform: scale(0.7);
+        margin-right: -49px;
+    }
+    .polygon-h-p-r-2-img {
+        margin-right: -100px;
+    }
+    .right-flow-main {
+        overflow: hidden;
+        transform: scale(0.7);
+        margin-right: -39px;
+    }
+    .right-flow-main-img {
+        margin-right: -230px;
+    }
+    .main-flow {
+        transform: scale(0.7);
+        margin-left: -90px;
+        margin-top: -30px;
+    }
+    .flow-left {
+        transform: scale(0.7);
+        margin-left: -80px;
+        margin-top: 300px;
+    }
+    .main-title {
+        margin-top: 60px;
+        font-size: 40px;
+    }
+    .hover-title {
+        margin-top: -15px;
+        margin-bottom: -15px;
+    }
+    .decor-container {
+        margin-left: 250px;
+    }
+    .title.partner {
+        font-size: 26px;
+    }
+    .partner-logo {
+        margin-left: 10px;
+        margin-right: 10px;
+    }
+    .partner-logo.p5 {
+        display: none;
+    }
+    .partner-logo.p6 {
+        display: none;
+    }
+    .title.product {
+        font-size: 26px;
+    }
+    title.card-t {
+        font-size: 19px;
+    }
+    .card-container{
+        transform: scale(0.7);
+    }
+    .card {
+        padding-left: 35px;
+        padding-right: 35px;
+        padding-top: 35px;
+        max-width: 33%;
+    }
+    .card-img {
+        margin-top: 0px;
+    }
+    .coment-container {
+        margin-left: 100px;
+    }
+    .author-container {
+        padding-top: 50px;
+    }
+    .author-photo {
+        margin-right: 0px;
+    }
+    .flow-auth {
+        transform: scale(0.7);
+        margin-top: -50px;
+        margin-left: -100px;
+    }
+    .roboto-coment {
+        font-size: 16px;
+    }
+    .coment-sub.cf:before {
+        width: 280px;
+    }
+    .cov {
+        transform: scale(0.7);
+        padding-left: 120px;
+    }
+    .title.achieve {
+        font-size: 26px;
+    }
+    .achieve-container {
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .title.sales {
+        font-size: 16px;
+        margin-bottom: 50px;
+        margin-right: 60px;
+    }
+    .title.sales-2 {
+        font-size: 32px;
+    }
+    .polygon-h-p.ach {
+        margin-left: -220px;
+        transform: scale(0.7);
+    }
+    .polygon2x {
+        overflow: hidden;
+        margin-top: -600px;
+        margin-right: -90px;
+        transform: scale(0.7);
+    }
+    
+    .review-container {
+        margin-left: 30px;
+    }
+    .person-img {
+        margin-right: 20px;
+    }
+    .hover-title.rev {
+        font-size: 14px;
+        margin-top: -25px;
+    }
+    .coment-sub.rev {
+        margin-top: -25px;
+    }
+    .btn-container {
+        margin-left: 30px;
+        margin-top: 25px;
+    }
+    .cov2 {
+        margin-bottom: 25px;
+    }
+    .footer-item {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .footer-container::before {
+        margin-left: 50px;
+        margin-right: 50px;
+    }
+    .flow-rev-l {
+        transform: scale(0.7);
+        margin-top: -100px;
+        margin-left: -50px;
+    }
+    .flow-sales-r {
+        overflow: hidden;
+        transform: scale(0.7);
+        margin-top: 110px;
+        margin-right: -51px;
+    }
+    .flow-sales-r-img {
+        margin-right: -100px;
+    }
+    .ach-text {
+        font-size: 38px;
+    }
+    .ach-text.sub {
+        font-size: 16px;
+    }
+}
